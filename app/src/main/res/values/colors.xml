@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="appColor">#FFFFFF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="skybeloff">#00677D</color>
+    <color name="irish">#554BC1</color>
+    <color name="irish_fourty">#F3F3F3</color>
+    <color name="kuja_text">#9A9A9A</color>
+    <color name="kuja_card">#F3F3F3</color>
+    <color name="bondiblue">#009FC1</color>
+    <color name="bg_white">#F8F9FE</color>
+    <color name="black_dark">#000000</color>
+    <color name="navy_blue">#0A0078</color>
+    <color name="africanviolet">#B284BD</color>
+    <color name="lightcyan">#DEFEF4</color>
+    <color name="oldlace">#FEF5E4</color>
+    <color name="tab_text">#417A7B</color>
+    <color name="status">#719694</color>
+    <color name="darkless">#375D75</color>
+    <color name="sky">#A1DCEA</color>
+    <color name="dark_blue">#3E718E</color>
+    <color name="placeholder_bg">#dddddd</color>
+
+    <color name="red_active">#FF6C64</color>
+    <color name="purple_active">#EB7BFF</color>
+    <color name="blue_active">#79D7FF</color>
+    <color name="green_active">#70FF76</color>
+    <color name="blue_grey_active">#CBD0FF</color>
+    <color name="yellow_active">#FFEE69</color>
+    <color name="orange_active">#F7B563</color>
+    <color name="grey_active">#AAAAAA</color>
+
+    <color name="red_inactive">#BFFA635C</color>
+    <color name="purple_inactive">#BFE763FC</color>
+    <color name="blue_inactive">#BF79D7FF</color>
+    <color name="green_inactive">#BF70FF76</color>
+    <color name="blue_grey_inactive">#BF8B97FA</color>
+    <color name="yellow_inactive">#BFFFEE69</color>
+    <color name="orange_inactive">#BFF7B563</color>
+    <color name="gery_inactive">#E6AAAAAA</color>
+
+    <color name="default_inactive">#CC78909C</color>
+
+    <color name="red_bg_light">#1CFFEBEE</color>
+    <color name="purple_bg_light">#1CF3E5F5</color>
+    <color name="blue_bg_light">#1CE3F2FD</color>
+    <color name="green_bg_light">#1CE8F5E9</color>
+    <color name="blue_grey_bg_light">#1CECEFF1</color>
+    <color name="yellow_bg_light">#1CFFFDE7</color>
+    <color name="orange_bg_light">#1CFFF3E0</color>
+    <color name="grey_bg_light">#1CFAFAFA</color>
+    <color name="blue">#45A8C6</color>
+    <color name="textColor">#417A7B</color>
+    <color name="SRA">#335165</color>
+    <color name="colorPrimary">#335165</color>
+    //color for vip
+    <color name="cardcolor">#80121416</color>
+    <color name="cardtext">#FFFF</color>
+    <color name="gradiantfirst">#9E1149</color>
+    <color name="gradiantsec">#FF4A4A</color>
+
+    <color name="app_bg">#202342</color>
+    <color name="card_bg">#252A4A</color>
+    <color name="etbg">#2D325A</color>
+    <color name="MainBg">#202342</color>
+    <color name="gnt_test_background_color">#00F4F4F4</color>
+    <color name="gnt_test_background_color_2">#00A3A3A3</color>
+    <color name="gnt_black">#000000</color>
+    <color name="gnt_white">#FFFFFF</color>
+    <color name="gnt_red">#FF0000</color>
+    <color name="gnt_green">#00FF00</color>
+    <color name="gnt_blue">#4285f4</color>
+    <color name="gnt_ad_green">#3A6728</color>
+    <color name="gnt_gray">#808080</color>
+    <color name="gnt_outline">#E0E0E0</color>
+    <color name="dialog_bg_color">#6BC56E</color>
+    <color name="text_color_Splash">#010044</color>
+    <color name="toolbar">#1B304F</color>
+    <color name="textcolor">#FFFF</color>
+
+    <color name="colorBackground">#efefef</color>
+    <color name="colorBG">#1B304F</color>
+    <color name="colorText">#121416</color>
+    <color name="colorTextChip">#fff</color>
+    <color name="colorTextSecondary">#99121416</color>
+    <color name="colorSecondary">#80121416</color>
+    <color name="colorIcon">#000</color>
+    <color name="colorButton">#000</color>
+    <color name="colorView">#321D1D1D</color>
+
+    <color name="colorCard">#f5f5f5</color>
+    <color name="colorBottomNav">#E6E4E4</color>
+    <color name="colorActiveBottom">#000</color>
+    <color name="colorInactiveBottom">#000</color>
+    <color name="colorBackgroundLayout">#efefef</color>
+
+    <color name="colorWhite">#fff</color>
+    <color name="colorGray">#B3FFFFFF</color>
+    <color name="colorOffWhite">#efefef</color>
+    <color name="colorBlack">#000</color>
+    <color name="colorOrange">#ff5722</color>
+    <color name="colorRed">#f44336</color>
+    <color name="colorPink">#e91e63</color>
+    <color name="colorPurple">#673ab7</color>
+    <color name="colorGreen">#105652</color>
+    <color name="colorGreenLite">#614CAF50</color>
+    <color name="colorYellow">#ffeb3b</color>
+    <color name="colorBlue">#2196f3</color>
+    <color name="colorTeal">#00bcd4</color>
+
+    <color name="colorItemCards">#DFDEDE</color>
+    <color name="color1">#FA834B</color>
+    <color name="color2">#8C97F9</color>
+    <color name="color3">#F4F9FF</color>
+    <color name="color4">#FCBD72</color>
+    <color name="color5">#14243E</color>
+    <color name="color6">#277CFB</color>
+
+    <color name="svg1">#FBD384</color>
+    <color name="svg2">#F9E887</color>
+    <color name="svg3">#8696FA</color>
+    <color name="svg4">#EF836C</color>
+    <color name="svg5">#F47FFC</color>
+    <color name="svg6">#76FAD8</color>
+    <color name="colorAccent">#363E81</color>
+</resources>

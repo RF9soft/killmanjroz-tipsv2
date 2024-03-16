@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    app:cardBackgroundColor="@color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_marginBottom="15dp"
+        android:background="@color/appColor"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/title_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:fontFamily="@font/roboto_medium"
+            android:textColor="@color/blue"
+            android:layout_marginTop="@dimen/padding_10"
+            android:layout_marginBottom="8dp"
+            android:text="Filter Old Odds "
+            android:textSize="20sp"
+            android:textStyle="bold" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_marginBottom="@dimen/padding_10"
+            android:layout_height="wrap_content">
+            <LinearLayout
+                android:layout_marginEnd="@dimen/padding_10"
+                android:layout_marginStart="@dimen/padding_10"
+                android:id="@+id/lytStartDate"
+                android:background="@drawable/shadow_rect"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:layout_width="0dp"
+                android:layout_weight=".8"
+                android:orientation="horizontal"
+                android:layout_height="60dp">
+                <EditText
+                    android:layout_marginStart="10dp"
+                    android:textStyle="bold"
+                    android:textSize="15sp"
+                    android:id="@+id/tv_start_date"
+                    android:padding="5dp"
+                    android:background="@android:color/transparent"
+                    android:layout_width="0dp"
+                    android:layout_weight=".9"
+                    android:hint="YYYY-MM-DD"
+                    android:textColor="@color/black"
+                    android:layout_height="match_parent">
+
+                </EditText>
+
+                <ImageView
+                    android:layout_margin="10dp"
+                    android:padding="5dp"
+                    android:layout_width="0dp"
+                    android:layout_weight=".2"
+                    android:layout_height="40dp"
+                    android:src="@drawable/calendar"/>
+
+
+            </LinearLayout>
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btnSearch"
+                android:layout_width="wrap_content"
+                android:layout_weight=".1"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/button_shape_white"
+                android:padding="5dp"
+                android:text="search"
+                android:textColor="@color/white"
+                android:textSize="10sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/predictions_recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="4dp"
+        android:padding="6dp"
+        android:layout_marginTop="16dp"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager" />
+
+
+
+
+
+</LinearLayout>

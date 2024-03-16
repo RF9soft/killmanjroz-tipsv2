@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">kilimanjaroz bet tips</string>
+    <string name="let_get_started">GET STARTED</string>
+    <string name="first_slide_title">Easy and quick Learning App in online</string>
+    <string name="second_slide_title">Easy and quick Learning App in online</string>
+    <string name="third_slide_title">Easy and quick Learning App in online</string>
+    <string name="above_sub">If you are not only a student or job\n service holder please click here</string>
+    <string name="above_all">Above all</string>
+    <string name="service_holder_sub">If Service holder please click here</string>
+    <string name="are_you_service_holder">Are you Service holder</string>
+    <string name="student">Are you Student</string>
+    <string name="student_sub">If student please click here</string>
+    <string name="easy_and_quick">Easy and Quick</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="full_name">Full Name</string>
+    <string name="type_hare_your_full_name">Type hare your full name</string>
+    <string name="email_address">Email Address</string>
+    <string name="type_email">Type hare your email address</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="type_hare_your_phone_number">Type hare your phone number</string>
+    <string name="institute_company">Institute/Company</string>
+    <string name="type_hare_your_institute_company_name">Type hare your Institute/company name</string>
+    <string name="designation">Designation</string>
+    <string name="type_hare_your_designation">Type hare your designation</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="type_hare_your_confirm_password">Type hare your confirm password</string>
+    <string name="submit">Submit</string>
+    <string name="account_hint">Already an have account!</string>
+    <string name="click_here">Click here</string>
+    <string name="e_learning">E-Learning</string>
+    <string name="register">Register</string>
+    <string name="type_here_user_name_or_email">Type here user name or email</string>
+    <string name="type_here_your_password">Type here your Password</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="login">Login</string>
+    <string name="please_enter_the_email_you_use_to_sign_in_to_acme">Please enter the email</string>
+    <string name="type_hare_your_email_address">Type hare your email address</string>
+
+    <string name="paystack">There is no fee for this payment method.  If your transaction is authorised, your account will be verified to view VIP tips</string>
+    <string name="elite">There is no fee for this payment method.  If your transaction is authorised, your account will be verified to view VIP tips</string>
+    <string name="access_all_vip">Buy all vip</string>
+    <string name="unlocked_all_vip">Unlocked All Vip</string>
+
+    <string name="pricing">Pricing</string>
+    <string name="weekly_pricing_plan">(Weekly pricing Plan)</string>
+    <string name="weekly_subscription">1 week subscription</string>
+    <string name="select_this_plan">Select this Plan</string>
+    <string name="monthly_pricing_plan">(Monthly pricing Plan)</string>
+    <string name="_1_month_subscription">1 month subscription</string>
+    <string name="all_ads_removed">All Ads removed</string>
+    <string name="three_month_pricing_plan">(3 Month pricing Plan)</string>
+    <string name="_3_month_subscription">3 month subscription</string>
+    <string name="this_app_comes_with_ads_nyou_can_remove_ads_for_better_exprience">This app comes with Ads! \nYou can remove ads for better exprience.</string>
+    <string name="see_pricing_plans">See Pricing Plans</string>
+
+
+    <string name="base64key">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAg3MsNC9lsAzRBhIJ9kN/s4mH8y/jhWeCKb1eK2nGgQ1SZRHQDuCOZIwJvqVp9mfV8BedH4ElGhpVf3W+DaXKLqZBV+m+AG/o+h9Nro1Buh7j60RDVlnAh26QLoVv6+a8baHwJJpIAidbwm++gJoKg9p3qtq4MD1KcPPbdc5O4Iu4IJ37pbzllEqQ+bB7cN+RlNfUz+tQneXr5vihgg9pfs+HqZAh61FSFbNE5MDZCxd0NRIxlgreadytxuKBLncGkWZvc8QEdp38xuQ65bOJTW2Zk+hNDOmNd5rBiVIwBOPEuUob3HZ6kxv+n52KpXvae0NUNL6nsFa1dBIhkb+F2QIDAQAB</string>
+
+    <string name="sub_w">sub_w</string>
+    <string name="sub_m">sub_m</string>
+    <string name="sub_3m">sub_3m</string>
+    <string name="pricing_plan">16$</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notification_channel_id_message">betcoin</string>
+
+
+
+</resources>
